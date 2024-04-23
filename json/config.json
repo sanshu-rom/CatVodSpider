@@ -1,5 +1,5 @@
 {
-  "spider": "../jar/spider.jar",
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/sanshu-rom/CatVodSpider/master/jar/spider.jar",
   "sites": [
     {
       "key": "Douban",
